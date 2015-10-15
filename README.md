@@ -4,7 +4,7 @@ The USA 18F Volt Component is a wrapper on the [18F U.S. Web Design standard fra
 
 ![screenshot volt 18F web design standard](https://github.com/heri/volt-usa/blob/master/preview.png?raw=true =800x)
 
-[View the standards](https://playbook.cio.gov/designstandards/getting-started/) to use the framework
+[View the standards](https://playbook.cio.gov/designstandards/getting-started/) to use the framework. For example, `<button>Default</button>` to add [a button](https://playbook.cio.gov/designstandards/buttons/)
 
 The existing components are also ready to use:
   * `header` will add a `<header>` with a `<h1>` title on top
