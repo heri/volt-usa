@@ -2,7 +2,7 @@
 
 The USA 18F Volt Component is a wrapper on the [18F U.S. Web Design standard framework](https://playbook.cio.gov/designstandards/) by the United States Digital Service and 18F from the United States Government. Add to your @voltrb app to have a design similar to :
 
-![screenshot volt 18F web design standard](https://github.com/heri/volt-awesome/blob/master/preview.png?raw=true =800x)
+![screenshot volt 18F web design standard](https://github.com/heri/volt-usa/blob/master/preview.png?raw=true =800x)
 
 [View the standards](https://playbook.cio.gov/designstandards/getting-started/) to use the framework
 
